@@ -223,9 +223,6 @@ header {
   margin-bottom: 30px
 }
 
-
-
-
 /* ------------------------------------------------ */
 /* MEALS */
 /* ------------------------------------------------ */
@@ -263,8 +260,6 @@ header {
   transition: transform 0.5s, opacity 0.5s;
   
 }
-
-
 
 .meal-photo img:hover {
   opacity: 1;
@@ -318,8 +313,6 @@ header {
   margin-right: 25px;
   
 }
-
-
 
 .btn-app img {
   height: 50px;
