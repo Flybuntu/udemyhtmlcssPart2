@@ -355,6 +355,50 @@ header {
   color: #e67e22;
 }
 
+/* ------------------------------------------------ */
+/* CUSTOMER */
+/* ------------------------------------------------ */ 
+
+.customer-section {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/2.jpg);
+  background-size: cover;
+  width: 100%;
+
+}
+
+.customer-section h2 {
+  color: #fff;
+}
+
+.customer-quote {
+  color: #fff;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.customers img {
+  display: inline-block;
+  border-radius: 300px;
+  width: 50px;
+  margin-top: 20px;
+  vertical-align: middle;
+
+}
+
+.customers i {
+  color: #fff;
+  font-size: 150%;
+}
+
+.customer-name {
+  display: inline-block;
+  color: #fff;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+
+
+
 /* Orange color #e67e22 */
 
 
