@@ -320,6 +320,41 @@ header {
 }
 
 
+/* ------------------------------------------------ */
+/* CITIES */
+/* ------------------------------------------------ */
+
+
+/* ----- IMAGES ----- */
+
+
+
+.box img {
+  width: 100%;
+  height: auto;
+}
+
+/* ----- TEXT ----- */
+
+.city-feature {
+  line-height: 2;
+}
+
+.city-feature:last-child {
+  color: #e67e22;
+  text-decoration: underline;
+  
+
+}
+
+.box h3 {
+  padding-top: 20px;
+}
+.box i {
+  padding-right: 10px;
+  color: #e67e22;
+}
+
 /* Orange color #e67e22 */
 
 
